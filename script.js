@@ -8,7 +8,7 @@ console.log(hour);
 var formatHour = moment().format('ha');//9am
 var timeBlock = $(".time-block");
 
-//assigning classes according to time to change background color
+//assigning classes according to time to change bg color
 for (var i = 0; i < timeBlock.length; i++) {
     var blockTime = $(timeBlock[i]);
     var hourId = blockTime.attr("id");
