@@ -32,6 +32,11 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Screenshots of the app
+
+![pic1](1.png)
+![pic2](2.png)
+
 ## Link to the website:
 
 https://alidemirbay.github.io/Web-DayPlanner/
