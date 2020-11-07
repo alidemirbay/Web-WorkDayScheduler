@@ -34,8 +34,8 @@ THEN the saved events persist
 
 ## Screenshots of the app
 
-![pic1](1.png)
-![pic2](2.png)
+![pic1](images/1.png)
+![pic2](images/2.png)
 
 ## Link to the website:
 
