@@ -40,4 +40,4 @@ THEN the saved events persist
 
 ## Link to the website:
 
-https://alidemirbay.github.io/Web-DayPlanner/
+https://alidemirbay.github.io/day-planner/
